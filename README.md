@@ -6,8 +6,8 @@
 Soy programador backend, con un fuerte interés en el mundo de los datos.  
   <br>
 
-Estoy ampliando mis conocimientos tanto en el desarrollo <strong>backend</strong> como en la <strong>ciencia de datos</strong>,  
-y he trabajado como desarrollador backend en una empresa dedicada a la creación de interfaces web.  
+Estoy ampliando mis conocimientos tanto en el desarrollo <strong>backend</strong> como en la <strong>ciencia de datos</strong>,
+he trabajado como desarrollador backend en una empresa dedicada a la creación de interfaces web.  
 <br>
 Me encanta aprender y construir cosas nuevas e innovadoras.
 </p>
@@ -39,8 +39,8 @@ Me encanta aprender y construir cosas nuevas e innovadoras.
 <h4>Backend</h4>
 <span> 
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
 </span>
@@ -52,6 +52,7 @@ Me encanta aprender y construir cosas nuevas e innovadoras.
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 </span>
 
 <h4>Bases de Datos</h4>
