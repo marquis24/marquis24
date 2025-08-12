@@ -6,8 +6,8 @@
 Soy programador backend, con un fuerte interés en el mundo de los datos.  
   <br>
 
-Estoy ampliando mis conocimientos tanto en el desarrollo <strong>backend</strong> como en la <strong>ciencia de datos</strong>,
-he trabajado como desarrollador backend en una empresa dedicada a la creación de interfaces web.  
+Estoy ampliando mis conocimientos tanto en el  <strong> desarrollo backend</strong> como en la <strong>ciencia de datos</strong>,
+he trabajado como desarrollador backend en una empresa creando programas internos.  
 <br>
 Me encanta aprender y construir cosas nuevas e innovadoras.
 </p>
@@ -20,14 +20,14 @@ Me encanta aprender y construir cosas nuevas e innovadoras.
     </ul>
   </li>
   <li>✔ Pregúntame lo que quieras, estaré encantado de ayudarte.</li>
-  <li>Fuera del mundo tecnológico, me gusta 🎵 escuchar música y 📖 leer libros de fantasía.</li>
+  <li>Fuera del mundo tecnológico, me gusta 🎹 tocar el piano y 📖 leer comics.</li>
   <li>📫 Puedes contactarme en: <a href="mailto:mcuzcano24@gmail.com">mcuzcano24@gmail.com</a></li>
 </ul>
 
 
 ## Tecnologías
 
-<h4>Frontend</h4>
+<h3>Frontend</h3>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -36,7 +36,7 @@ Me encanta aprender y construir cosas nuevas e innovadoras.
 
 </span>
 
-<h4>Backend</h4>
+<h3>Backend</h3>
 <span> 
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
@@ -45,24 +45,25 @@ Me encanta aprender y construir cosas nuevas e innovadoras.
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
 </span>
 
-<h4>Ciencia de Datos</h4>
+<h3>Ciencia de Datos</h3>
 <span> 
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+
 </span>
 
-<h4>Bases de Datos</h4>
+<h3>Bases de Datos</h3>
 <span> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 </span>
 
-<h4>Herramientas</h4>
+<h3>Herramientas</h3>
 <span>
     <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
