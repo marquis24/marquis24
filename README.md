@@ -16,7 +16,7 @@ Me encanta aprender y construir cosas nuevas e innovadoras.
   <li>🌱 Actualmente estoy aprendiendo:
     <ul>
       <li>Astro</li>
-      <li>Plotly, NumPy y Pandas</li>
+      <li> NumPy, Pandas y Plotly </li>
     </ul>
   </li>
   <li>✔ Pregúntame lo que quieras, estaré encantado de ayudarte.</li>
@@ -32,7 +32,7 @@ Me encanta aprender y construir cosas nuevas e innovadoras.
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white">
+  <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white">
 
 </span>
 
