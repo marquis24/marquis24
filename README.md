@@ -4,6 +4,8 @@
 
 <p>
 Soy programador backend, con un fuerte interés en el mundo de los datos.  
+  <br>
+
 Estoy ampliando mis conocimientos tanto en el desarrollo <strong>backend</strong> como en la <strong>ciencia de datos</strong>,  
 y he trabajado como desarrollador backend en una empresa dedicada a la creación de interfaces web.  
 <br>
