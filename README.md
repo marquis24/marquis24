@@ -1,24 +1,27 @@
-<h1 align="center">Hola 👋, soy Marc Cuzcano</h1>
+<h1 >Hola 👋, soy Marc Cuzcano</h1>
 
 <h3>⭐ Acerca de mí</h3>
 
 <p>
-Soy programador backend, con fuerte interes en el mundo de los datos.  
-Estoy ampliando mis conocimientos tanto en desarrollo <strong>backend</strong> como en <strong>ciencia de datos</strong>,  
-y he trabajo como desarrollador de backend en una empresa que crea sistemas para el sector de la carpintería.  
-Me encanta aprender y construir cosas nuevas, innovadoras y creativas.
+Soy programador backend, con un fuerte interés en el mundo de los datos.  
+Estoy ampliando mis conocimientos tanto en el desarrollo <strong>backend</strong> como en la <strong>ciencia de datos</strong>,  
+y he trabajado como desarrollador backend en una empresa dedicada a la creación de interfaces web.  
+<br>
+Me encanta aprender y construir cosas nuevas e innovadoras.
 </p>
 
 <ul>
   <li>🌱 Actualmente estoy aprendiendo:
     <ul>
-      <li> Astro</li>
+      <li>Astro</li>
+      <li>Plotly, NumPy y Pandas</li>
     </ul>
   </li>
   <li>✔ Pregúntame lo que quieras, estaré encantado de ayudarte.</li>
-  <li>Fuera del mundo tecnológico, me gusta 🎵 escuchar música y 📖 leer libros de .</li>
+  <li>Fuera del mundo tecnológico, me gusta 🎵 escuchar música y 📖 leer libros de fantasía.</li>
   <li>📫 Puedes contactarme en: <a href="mailto:mcuzcano24@gmail.com">mcuzcano24@gmail.com</a></li>
 </ul>
+
 
 ## Tecnologías
 
@@ -27,6 +30,8 @@ Me encanta aprender y construir cosas nuevas, innovadoras y creativas.
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white">
+
 </span>
 
 <h4>Backend</h4>
@@ -51,12 +56,12 @@ Me encanta aprender y construir cosas nuevas, innovadoras y creativas.
 <span> 
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 </span>
 
 <h4>Herramientas</h4>
 <span>
+    <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </span>
