@@ -3,10 +3,10 @@
 <h3>⭐ Acerca de mí</h3>
 
 <p>
-Soy programador backend, con un fuerte interés en el mundo de los datos.  
+Soy programador backend, con un fuerte interés en el mundo de la ciberseguridad.  
   <br>
 
-Estoy ampliando mis conocimientos tanto en el <strong> desarrollo backend</strong> como en la <strong>ciencia de datos</strong>,
+Estoy ampliando mis conocimientos tanto en el <strong> desarrollo backend</strong> como en la <strong>ciberseguridad</strong>,
 he trabajado como desarrollador backend en una empresa creando programas internos.  
 <br>
 Me encanta aprender y construir cosas nuevas e innovadoras.
