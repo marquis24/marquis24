@@ -3,7 +3,7 @@
 <h3>⭐ Acerca de mí</h3>
 
 <p>
-Soy programador backend, con un fuerte interés en el mundo de la ciberseguridad.  
+Soy programador backend, con un fuerte interés en el mundo de la programación y la ciberseguridad.  
   <br>
 
 Estoy ampliando mis conocimientos tanto en el <strong> desarrollo backend</strong> como en la <strong>ciberseguridad</strong>,
@@ -60,6 +60,7 @@ Me encanta aprender y construir cosas nuevas e innovadoras.
 <span> 
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Postgres-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 </span>
 
